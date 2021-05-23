@@ -5,4 +5,4 @@ I use branca module to draw elemets as legend on the map.
 
 I use folinium module to draw map by OpenStreetMap data.
 
-<img src="images/image map.png.png" align="middle" width="3000"/>
+<img src="folinium-russian-map/images/image map.png.png" align="middle" width="3000"/>
