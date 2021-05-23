@@ -22,3 +22,5 @@ Final result:
 Zoom on some marker:
 
 <img src="/images/image map zoom.png" align="middle" width="3000"/>
+
+Output file you will able to find in folinium-russian-map/output/map.html
