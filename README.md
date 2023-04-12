@@ -2,7 +2,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/wladradchenko/example.folium.wladradchenko.ru">
+  <a href="https://github.com/wladradchenko/example.folium.geojson.wladradchenko.ru">
     <img src="https://media.giphy.com/media/jZTfM2sOyVqu8D0DC9/giphy.gif" width="100px" height="100px">
   </a>
 
@@ -32,6 +32,6 @@ Zoom on some marker:
 
 <img src="/images/image map zoom.png" align="middle" width="3000"/>
 
-To view the HTML page result of code, click [here](https://github.com/wladradchenko/example.folium.wladradchenko.ru/blob/main/output/map.html).
+To view the HTML page result of code, click [here](https://github.com/wladradchenko/example.folium.geojson.wladradchenko.ru/blob/main/output/map.html).
 
 P.S. Board of map project is not actual on current time. It's only old example of approach to work folium map.
