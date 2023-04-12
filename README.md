@@ -32,6 +32,6 @@ Zoom on some marker:
 
 <img src="/images/image map zoom.png" align="middle" width="3000"/>
 
-To view the HTML page result of code, click [here](https://github.com/wladradchenko/example.folium.wladradchenko.ru/output/map.html).
+To view the HTML page result of code, click [here](https://github.com/wladradchenko/example.folium.wladradchenko.ru/blob/main/output/map.html).
 
 P.S. Board of map project is not actual on current time. It's only old example of approach to work folium map.
